@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2010. <br>📚 Atualmente estou aprendendo: Desenvolvimento de IA e Machine Learning <br>🎯 Objetivos: Tornar-me um especialista em IA e contribuir para projetos inovadores <br>🎲 Curiosidade: Adoro resolver problemas e desafios lógicos</p>
+<p align="left">✨ Criando bugs desde 2010. <br>📚 Atualmente estou aprendendo: Desenvolvimento de IA e Machine Learning. <br>🎯 Objetivos: Tornar-me um especialista em IA e contribuir para projetos inovadores. <br>🎲 Curiosidade: Adoro resolver problemas e desafios lógicos.</p>
 
 ###
 
